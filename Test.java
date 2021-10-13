@@ -1,3 +1,12 @@
 Hey...good evening
 
-creating one more new file
+echo "lets write some linux commands here"
+mkdir ak
+pwd
+cd
+date
+cal
+echo
+read
+
+
